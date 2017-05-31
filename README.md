@@ -3,7 +3,8 @@
 The Project was build for FOS operating system 
 
 ### FOS - OS 
-an operating system built by OS Course TA's for the course lab and final project 
+an operating system built by OS Course TA's for the course lab and final project
+
 The project was implmenting this features
  
 * getting Kernel Heap physical address for a specific virtual address
